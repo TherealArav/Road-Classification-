@@ -22,7 +22,7 @@ Preprocessing: Resizing images to 256x256 and normalizing pixel values.
 
 # Model Architecture
 
-Approach: Model from scratch using Convolutional Neural Networks (16, 32, 64, 128) activation notes
+Approach: Model from scratch using Convolutional Neural Networks (3,3) window and (16, 32, 64, 128) activation layers.
 
 Custom Layers:MaxPooling2D (2,2), Dropout (0.5) and final Dense layer (128).
 
