@@ -42,17 +42,21 @@ Installation
 
 1. Clone the repo:
 
-    (git clone https://github.com/your_username/your_project_repo.git)
+    `git clone https://github.com/your_username/your_project_repo.git`
 
 2. Install dependencies:
 
-    (pip install -r requirements.txt)
+    `pip install -r requirements.txt`
 
 # Results
 
 Model Accuracy is 82%
 
 _Note: The accuracy given represents the trained model saved in the given rep, the one in the notebook is slightly different from the orignal model._
+
+# Insights
+
+There are lots of improvements that can be made, as the model still overfits to a certain degree. I hope you learn something from this repository and can improve upon it.
 
 
 
