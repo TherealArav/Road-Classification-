@@ -12,7 +12,7 @@ My first project into the world of deep learning. I built a Convolutional Neural
 
 # Dataset
 
-Source: Kaggle _By BibTeX: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection_
+Source: Kaggle: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection_
 
 Content: The dataset contains 877 number of images split across 4 classes.
 
@@ -57,10 +57,3 @@ _Note: The accuracy given represents the trained model saved in the given rep, t
 # Insights
 
 There are lots of improvements that can be made, as the model still overfits to a certain degree. I hope you learn something from this repository and can improve upon it.
-
-
-
-
-
-
-
